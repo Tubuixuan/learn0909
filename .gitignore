@@ -1,0 +1,14 @@
+# Bỏ qua file môi trường
+.env
+
+# Bỏ qua node_modules
+node_modules/
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua các file build
+dist/
+
+# Không bỏ qua file README.md trong thư mục dist
+!dist/README.md
